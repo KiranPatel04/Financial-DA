@@ -1,3 +1,4 @@
+# Financial Data Analysis
 Sales reporting helps to take the guesswork out of the business decisions by giving a clear view of where the company stands at every level of the sales process. By focusing on measurable activities that have clear outcomes, we can add more value to each individual sales and the company as a whole.
 
 This dataset explores the sample financial data for an organization. This workbook has a table of sales and profit data sorted by market segment and country.
