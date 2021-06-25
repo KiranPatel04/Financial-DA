@@ -43,3 +43,6 @@ We have drawn many interesting inferences from our analysis; here’s a summary 
 * The product "Paseo" has the highest sales in all the countries and "Carretera" has the lowest.
 * December of 2014 saw the highest profit so far. Overall between 2013 and 2014, October has consistently showed highes profits. 
 * The above observation is consistent with the Sales report as well where October and December have the highest sales.
+
+Link to this project:
+[My Portfolio](https://kiranpatel04.github.io/Kiran_Portfolio-2/post/)
