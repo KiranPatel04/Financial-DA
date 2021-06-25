@@ -4,7 +4,7 @@ Sales reporting helps to take the guesswork out of the business decisions by giv
 
 This dataset explores the sample financial data for an organization. This workbook has a table of sales and profit data sorted by market segment and country.
 
-![alt text](https://github.com/KiranPatel04/Financial-DA/tree/main/image/datafinancial.png)
+[text](/image/datafinancial.png)
 
 The sample data is collected from Microsoft website ([Sample Data](https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)) in Excel format.
 The dataset can be found [here:](https://github.com/KiranPatel04/Financial-DA/blob/main/Financial%20Sample.xlsx)
